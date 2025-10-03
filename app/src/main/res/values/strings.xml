@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TSDMH252_RPADP1E2</string>
+    <string name="p1titulo">ingreso de datos</string>
+    <string name="p1lsolnombre">ingrese su nombre</string>
+    <string name="hsolnombre">Aqui tu Nombre</string>
+    <string name="blsaludar">saludar</string>
+    <string name="p1titulo2">Suma de 2 Numeros</string>
+    <string name="lnum1">Ingresa el Primer Numero</string>
+    <string name="lnum2">Ingresa el Segundo Numero</string>
+    <string name="hlnum1">Aqui el Primer Numero</string>
+    <string name="hlnum2">Aqui el Segundo Numero</string>
+<string name="blsumar">Suma Numeros</string>
+</resources>
